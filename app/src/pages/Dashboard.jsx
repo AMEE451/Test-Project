@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import Card from '../components/card';
+import Card from '../components/Card';
 import { homes } from '../data/homes';
 
 const Dashboard = () => {
